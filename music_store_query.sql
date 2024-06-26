@@ -1,7 +1,7 @@
 
 CREATE DATABASE music_database ;
 # set this  as default schema
-# uploading data basse from file
+# uploading data base from file
 # direct uploading data from files
 -- ---------------------------------------------------------------
 -- ---------------------------------------------------------------
